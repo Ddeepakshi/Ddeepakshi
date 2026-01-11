@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Full-Stack Developer from India 🇮🇳 Focused on GenAI, RAG systems, Backend APIs, and Scalable Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddeepakshi&label=Profile%20views&color=0e75b6&style=flat" alt="ddeepakshi" /> </p>
-# 💫 About Me:
+💫 About Me:
 AI-powered SaaS products, backend systems, and voice-based AI solutions (chatbots, voice agents, meeting assistants, automation tools).<br>AI/ML projects, SaaS products, RAG applications, LLM-based tools, and real-world problem-solving solutions.<br>Scaling SaaS products, system design, MLOps, model deployment, and improving production-level AI performance.<br>Advanced Machine Learning, Deep Learning, LLM fine-tuning, RAG architectures, backend optimization, and cloud deployment.<br>Machine Learning, NLP, LLMs, AI chatbots, voice AI, backend APIs, data preprocessing, model evaluation, and SaaS architecture.<br>I enjoy turning complex AI problems into simple, usable products—and I’m always building something new 🚀
 
 
@@ -15,6 +15,12 @@ AI-powered SaaS products, backend systems, and voice-based AI solutions (chatbot
 ![](https://github-readme-stats.vercel.app/api?username=Ddeepakshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ddeepakshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddeepakshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ddeepakshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
