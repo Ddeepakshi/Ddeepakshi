@@ -1,47 +1,137 @@
-<h1 align="center">Hi 👋, I'm Deepakshi Sharma</h1>
-<h3 align="center">A passionate AI & Full-Stack Developer from India 🇮🇳 Focused on GenAI, RAG systems, Backend APIs, and Scalable Web Apps</h3>
+<h1 align="center">Hi, I'm Deepakshi Sharma</h1>
+<h3 align="center">Generative AI Engineer · LLMs · RAG · Voice AI · Multi-Agent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddeepakshi&label=Profile%20views&color=0e75b6&style=flat" alt="ddeepakshi" /> </p>
-##💫 About Me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Roles-%E2%97%8F%20Available%20Immediately-22c55e?style=for-the-badge" alt="Open to roles" />
+  <img src="https://img.shields.io/badge/Location-Gurugram%20%7C%20Remote-a855f7?style=for-the-badge" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=ddeepakshi&label=Profile%20views&color=ec4899&style=for-the-badge" alt="profile views" />
+</p>
 
-AI-powered SaaS products, backend systems, and voice-based AI solutions (chatbots, voice agents, meeting assistants, automation tools).<br>AI/ML projects, SaaS products, RAG applications, LLM-based tools, and real-world problem-solving solutions.<br>Scaling SaaS products, system design, MLOps, model deployment, and improving production-level AI performance.<br>Advanced Machine Learning, Deep Learning, LLM fine-tuning, RAG architectures, backend optimization, and cloud deployment.<br>Machine Learning, NLP, LLMs, AI chatbots, voice AI, backend APIs, data preprocessing, model evaluation, and SaaS architecture.<br>I enjoy turning complex AI problems into simple, usable products—and I’m always building something new 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepakshi-sharma-865068270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deepakshis21@gmail.com&su=Opportunity%20for%20Deepakshi"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Ddeepakshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-## 🧠 What I Bring
+---
 
-✔ Hands-on experience with end-to-end AI product development  
-✔ Strong problem-solving mindset with production focus  
-✔ Ability to translate business problems into scalable technical solutions  
-✔ Comfortable working across **AI, backend, and cloud infrastructure**
+## About
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepakshi-sharma-865068270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakshis21@gmail.com) 
+I'm an AI Engineer with hands-on experience building and deploying real-world AI systems using **LLMs**, **RAG pipelines**, and **conversational AI**. I specialize in scalable backend systems, real-time voice AI, and multi-agent architectures — and I've shipped production-grade systems involving voice automation, document intelligence, and AI-powered workflows.
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ddeepakshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ddeepakshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddeepakshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy solving real-world problems using AI and building systems that improve efficiency and reduce manual effort.
 
-<!-- Snake Game Repo View -->
+## Highlights
+
+| | |
+|---|---|
+| 🚀 **7+ AI projects** shipped end-to-end | 🎙️ **Voice AI** at production latency (LiveKit · Twilio · WebRTC) |
+| 🧠 **Multi-Agent Systems** with LangGraph / AutoGen | 📄 **RAG** over PDFs, web content, and KBs |
+| ☁️ **Multi-cloud** deploys on GCP and AWS | 💸 **~50%** LLM inference cost reduction |
+
+## Featured Projects
+
+### 🎙️ [AI Voice Calling Assistant](https://github.com/Ddeepakshi) — *Flagship*
+Real-time AI voice calling system with inbound + outbound automation, multi-agent architecture, WhatsApp agent, and a campaign system.
+**Tech:** Python · FastAPI · LiveKit · Twilio · Redis · Supabase · LangChain
+
+### 🧩 [AI Task Manager (Multi-Agent)](https://github.com/Ddeepakshi)
+Multi-agent system to manage tasks via natural language and voice. Reduced manual task-management effort by ~40%.
+**Tech:** LangGraph · FastAPI · Next.js · Firebase
+
+### 📄 [PDFMind — RAG Knowledge Base](https://github.com/Ddeepakshi/PDFMind)
+QA system with a unified knowledge base over PDFs and scraped web content; semantic search with context-aware responses.
+**Tech:** FastAPI · React · Supabase · Gemini
+
+### 🤖 [Multi-Agent Planner-Worker-Reviewer](https://github.com/Ddeepakshi/multiagent)
+Planner → Worker → Reviewer architecture in LangGraph; reviewer-driven response quality loop.
+**Tech:** LangGraph · Groq (LLaMA 3.3 70B)
+
+### 🎭 [AI Debate Arena](https://github.com/Ddeepakshi/AiDebate_agent)
+Real-time AI debate with two arguing agents and a host that judges, with live typing animations and transcript export.
+**Tech:** AutoGen · Python
+
+### 🧬 [Polymer Property Prediction](https://github.com/Ddeepakshi/polymer_prediction)
+Full-stack tool predicting 5 polymer properties (Tg, FFV, Tc, Density, Rg) from SMILES with batch CSV processing.
+**Tech:** FastAPI · React · scikit-learn
+
+### 🧠 [Generative Chatbot](https://github.com/Ddeepakshi/generative-chatbot)
+Local AI chatbot with LLaMA 2, LangChain, and Streamlit. No API keys, runs offline.
+**Tech:** LLaMA 2 · LangChain · Streamlit
+
+> Browse all repos → [github.com/Ddeepakshi?tab=repositories](https://github.com/Ddeepakshi?tab=repositories)
+
+## Tech Stack
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Voice & Real-time**
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1A1A1A?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+
+**Cloud / DevOps**
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Currently Building
+
+- 🤖 Multi-agent AI systems with reviewer / planner orchestration
+- 🎙️ Voice AI with sub-second turn latency
+- 📚 Advanced RAG pipelines with hybrid retrieval
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ddeepakshi&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ddeepakshi&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddeepakshi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## Contact
 
+- 📧 **Email:** [deepakshis21@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=deepakshis21@gmail.com&su=Opportunity%20for%20Deepakshi)
+- 💼 **LinkedIn:** [deepakshi-sharma-865068270](https://www.linkedin.com/in/deepakshi-sharma-865068270/)
+- 📍 **Location:** Gurugram, India · Open to Remote · Immediate Joiner
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ddeepakshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ddeepakshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ddeepakshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>Open to roles in Generative AI, LLMs, RAG, Voice AI, and Multi-Agent Systems.</i></p>
